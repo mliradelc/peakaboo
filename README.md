@@ -11,15 +11,18 @@ mkdir config
 cp docs/settings.example.json config/settings.json
 chmod u+x run
 ./run
+
+
+Installing the extra node packages:
+```shell
+meteor npm install
+```
+
+
 ```
 The meteor applcation will build then point a web browser at:
 ```shell
 http://localhost:3000
-```
-
-optional: if you get errors at runtime, try installing the node packages:
-```shell
-meteor npm install
 ```
 
 ### To run in in production
