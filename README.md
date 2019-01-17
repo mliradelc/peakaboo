@@ -11,15 +11,13 @@ mkdir config
 cp docs/settings.example.json config/settings.json
 chmod u+x run
 ./run
-
+```
 
 Installing the extra node packages:
 ```shell
 meteor npm install
 ```
 
-
-```
 The meteor applcation will build then point a web browser at:
 ```shell
 http://localhost:3000
