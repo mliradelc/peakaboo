@@ -29,7 +29,7 @@
          "active":false
       },
       "password":{
-         "active:":true
-      }    
+         "active":true
+      }
    }
 }
