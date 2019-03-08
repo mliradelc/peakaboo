@@ -22,7 +22,7 @@ With the same user that runs Galicaster (Normally: "galicaster"), you need to in
 * requests
 
 ```
-$ pip install python-meteor pyscreenshot image requests
+$ pip install python-meteor pyscreenshot pillow requests
 ```
 
 # ddp.py
